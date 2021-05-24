@@ -1,0 +1,4 @@
+##configuration file for whitelist_service
+port: "8080"
+database path: "./data/GeoLite2-Country.mmdb"
+log path: "./logs/"
